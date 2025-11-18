@@ -20,7 +20,7 @@
 
 import os
 from google import colab
-from crewai import Agent, Task, Crew, Process, LLM # <-- ADICIONE LLM AQUI!
+from crewai import Agent, Task, Crew, Process, LLM 
 
 
 try:
